@@ -35,4 +35,5 @@ __pycache__/
 **/summary*/
 
 *.pdf
+*.npy
 
