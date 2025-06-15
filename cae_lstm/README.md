@@ -70,7 +70,7 @@ Shu-Osher问题：坐标x范围为[-5, 5]，计算时间t范围为[0, 1.8]，平
 
 ### POD方法
 
-`python poe.py`
+`python pod.py`
 
 + POD-LSTM 训练
 
