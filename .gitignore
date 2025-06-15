@@ -34,6 +34,6 @@ __pycache__/
 **/prediction*/
 **/summary*/
 
-
+*.pdf
 *.npy
 
