@@ -21,7 +21,7 @@ plt.colorbar(label='Density Distribution')
 plt.title('Flow Field at t=0.25s')
 plt.xlabel('x')
 plt.ylabel('y')
-plt.savefig('./prediction/vis/ori_data_1100.png')
+plt.savefig('./prediction/vis/ori_data_1250.png')
 plt.show()
 
 # 等高线图
@@ -32,7 +32,7 @@ plt.xticks(np.linspace(0, 1, 6))  # 横轴显示 0 到 1 的刻度值，包括�
 plt.yticks(np.linspace(0, 1, 6))  # 纵轴显示 0 到 1 的刻度值，包括端点
 plt.xlabel('x')
 plt.ylabel('y')
-plt.savefig('./prediction/vis/ori_data_1100_h.png')
+plt.savefig('./prediction/vis/ori_data_1250_h.png')
 plt.show()
 
 # # 创建画布
